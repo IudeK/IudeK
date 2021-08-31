@@ -1,6 +1,6 @@
 ### Opa, Tudo bom? 😉
-# My name is Iude Kildare
-# and im'a computer student
+# *My name is Iude Kildare
+#### and im'a computer student
 <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IudeK&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
