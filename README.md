@@ -5,11 +5,9 @@
 <a href="https://open.spotify.com/user/iudek">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-<p/> 
-<p/>  
+
 #### Heyy!!! waz up? ✌ 
-</p>
-</p>
+
 # My name is Iude Kildare!
 #### and im'a computer student
 <div>
