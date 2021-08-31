@@ -2,10 +2,10 @@
   <a href="https://www.linkedin.com/in/iude-meneses-879539200/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
+<a href="https://open.spotify.com/user/iudek">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-<p
+<p>
    
 ### Heyy!!! waz up? ✌
 # My name is Iude Kildare!
