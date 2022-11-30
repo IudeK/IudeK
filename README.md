@@ -1,5 +1,5 @@
 </a>
-  <a href="https://www.linkedin.com/in/iude-meneses-879539200/">
+  <a href="[https://www.linkedin.com/in/iude-meneses-879539200/](https://www.linkedin.com/in/iude-meneses-879539200/)">
   <img align="left" alt="Iude's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href = "mailto:ikildarem@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
